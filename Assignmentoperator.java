@@ -41,5 +41,10 @@ public class Assignmentoperator {
         int var = 100;
         int result = num - var;
         System.out.println(result);
+        int num1 = 50;
+        int var1 = 100;
+        int result1 = num1 + var1;
+        System.out.println(result1);
+
     }
 }
