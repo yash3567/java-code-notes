@@ -8,14 +8,10 @@ class practice {
             i++;
         }
         int j = 1;
-        while (i <= 5) {
+        while (j <= 5) {
             System.out.println("yash" + j);
             i++;
         }
-        int k = 1;
-        while (i <= 5) {
-            System.out.println("yash" + k);
-            i++;
-        }
+
     }
 }
