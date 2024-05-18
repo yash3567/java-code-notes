@@ -38,12 +38,6 @@ class switchstatement {
                 System.out.println("sunday");
                 break;
 
-            // default:
-            // System.out.println("invalid number");
-            case 10:
-                System.out.println("sunday");
-                break;
-
             default:
                 System.out.println("invalid number");
 
