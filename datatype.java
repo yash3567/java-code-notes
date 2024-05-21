@@ -27,15 +27,7 @@ public class datatype {
         System.out.println(b);
         System.out.println(by);
 
-        System.out.println(num);
-        System.out.println(s);
-        System.out.println(l);
-        System.out.println(f);
-        System.out.println(d);
-        System.out.println(c);
-        System.out.println(b);
-        System.out.println(by);
-
+      
     }
 
 }
