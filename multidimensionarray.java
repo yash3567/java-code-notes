@@ -33,7 +33,7 @@ class multidimensionarray {
 
             }
             System.out.println();
-            
+         
 
         }
     }
