@@ -34,8 +34,6 @@ class multidimensionarray {
             }
             System.out.println();
          
-            System.out.println();
-         
 
         }
     }
