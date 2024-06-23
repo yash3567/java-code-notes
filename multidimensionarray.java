@@ -32,7 +32,7 @@ class multidimensionarray {
                 System.out.print(m + "");
 
             }
-            System.out.println();
+           
          
             
          
